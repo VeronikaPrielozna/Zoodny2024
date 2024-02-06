@@ -12,5 +12,5 @@
 18:15 – 18:30: Coffe Break \
 18:30 – konec: Praktická část 3
 
-<img src="kbe_logo.png" alt="drawing" width="400"/> 
-<img src="PRIRODOVEDECKA-FAKULTA-vertikalni1-bilo-barevne.png" alt="drawing" width="400"/>
+<img src="loga.png" alt="drawing" width="400"/> 
+
