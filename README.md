@@ -1,4 +1,7 @@
-<img src="zoodny_logo.png" alt="drawing" width="600"/>
+<p align="center">
+ <img src="zoodny_logo.png" alt="drawing" width="600"/>
+</p>
+
 
 # AI in Science: Od Teorie k Praxi 
 Pavel Drozd, Petr Pyszko, Veronika Prieložná
@@ -13,5 +16,8 @@ Pavel Drozd, Petr Pyszko, Veronika Prieložná
 18:15 – 18:30: Coffe Break \
 18:30 – konec: Praktická část 3
 
+<p align="center">
 <img src="loga.png" alt="drawing" width="400"/> 
+</p>
+
 
