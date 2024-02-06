@@ -1,6 +1,7 @@
 <img src="zoodny_logo.png" alt="drawing" width="600"/>
 
-# AI in Science: Od Teorie k Praxi (Pavel Drozd, Petr Pyszko, Veronika Prieložná)
+# AI in Science: Od Teorie k Praxi 
+Pavel Drozd, Petr Pyszko, Veronika Prieložná
 ## Předpokládaný program Workshopu (07.02.2024)
 10:00 – 12:00: VIP exkurze v Zoo (Pouze pro přihlášené) \
 12:00 – 14:00: Pauza na oběd \
